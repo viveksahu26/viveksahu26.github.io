@@ -16,6 +16,7 @@
 </p>
 
 A simple and clean blog theme for [Hugo](https://gohugo.io/).
+This is website of vivek.
 
 ![](images/screenshot.png)
 
