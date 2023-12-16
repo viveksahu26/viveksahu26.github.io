@@ -16,12 +16,12 @@ style = "github-dark"
   info = "software developer"
   description = "Vivek personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "/images/avatar.jpg"
+  avatarurl = "/img/conference_image.jpeg"
   #gravatar = "vivekkumarsahu650@email.com"
 
-  faviconSVG = "images/favicon.svg"
-  favicon_32 = "images/favicon-32x32.png"
-  favicon_16 = "images/favicon-16x16.png"
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
 
   since = 2019
 
@@ -61,12 +61,11 @@ style = "github-dark"
   weight = 3
   url = "https://twitter.com/viveksahu_26/"
 [[params.social]]
-  name = "developer"
-  image = "/images/developer.svg"
+  name = "me"
+  image = "/img/developer.svg"
   #icon = "fa fa-developer fa-2x"
   weight = 4
-  url = "https://viveksahu26.github.io/portfolio.github.io/"
-
+  url = "https://viveksahu26.github.io/"
 
 # Menu links
 [[menu.main]]
