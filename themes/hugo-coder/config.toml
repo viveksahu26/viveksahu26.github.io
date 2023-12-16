@@ -60,12 +60,6 @@ style = "github-dark"
   icon = "fa fa-twitter fa-2x"
   weight = 3
   url = "https://twitter.com/viveksahu_26/"
-[[params.social]]
-  name = "me"
-  image = "/img/developer.svg"
-  #icon = "fa fa-developer fa-2x"
-  weight = 4
-  url = "https://viveksahu26.github.io/"
 
 # Menu links
 [[menu.main]]
