@@ -19,9 +19,9 @@ style = "github-dark"
   avatarurl = "/img/conference_image.jpeg"
   #gravatar = "vivekkumarsahu650@email.com"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  faviconSVG = "/img/developer.svg"
+  favicon_32 = "/img/developer.png"
+  favicon_16 = "/img/developer.png"
 
   since = 2019
 
