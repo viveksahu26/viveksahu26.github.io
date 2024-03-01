@@ -6,17 +6,20 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Hey, I am vivek kumar sahu. I have completed my Btech in Electronics and Telecommunication from India in year 2023. I Love containers and currently working on Software supply chain supply. Previously contributed to kyverno project.
+Hello, I'm Vivek! I stumbled into software development unexpectedly, as I never initially intended to become a software engineer. Just as a tiny spark can ignite a small jungle, a moment of curiosity ignited my journey into the world of software. That spark was the 2 question: 'How can a container start within seconds while a virtual machine takes 30 minutes?' and 'When I was in 10th and 12th grade, it was everytime with me that whenever my chance comes to see the result, the server goes down ?' These question propelled me into exploring Linux, containers, Kubernetes, and the realm of cloud-native technologies.
+
 
 Few more thing about me:
 
-🌱 I’m currently learning about cosign project.
+🌱 Exploring Software Supply Chain Security domain.
 
-💬 Ask me about  Linux, Containers, Kubernetes, etc.
+💬 Write technical blogs related to cloud-native technologies as a freelancer to pay my room rents and bills.
 
 😄 Pronouns: His/Him
 
-🔭 Looking for discussion on supply chain software security project.
+🔭 Live with my own rules, regulationa and values.
+
+😡 Hate Sad songs and Motivation videos.
 
 ⚡ Fun fact: I convince my self with sudo.
 
