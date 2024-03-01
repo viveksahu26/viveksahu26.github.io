@@ -65,7 +65,7 @@ style = "github-dark"
 [[menu.main]]
   name = "Blog"
   weight = 1
-  url  = "posts/"
+  url  = "https://cloudnativeculture.blogspot.com/"
 [[menu.main]]
   name = "About"
   weight = 2
