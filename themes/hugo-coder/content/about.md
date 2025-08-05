@@ -6,22 +6,14 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Hello, I'm Vivek! I stumbled into software development unexpectedly, as I never initially intended to become a software engineer. Just as a tiny spark can ignite a small jungle, a moment of curiosity ignited my journey into the world of software. That spark was the 2 question: 'How can a container start within seconds while a virtual machine takes 30 minutes?' and 'When I was in 10th and 12th grade, it was everytime with me that whenever my chance comes to see the result, the server goes down ?' These question propelled me into exploring Linux, containers, Kubernetes, and the realm of cloud-native technologies.
 
+Hey, great to see you here. I am Vivek!
 
-Few more thing about me:
+I'm passionate about open-source software(basically I love OSS). At present to secure OSS actively contributing to improve the software supply chain security with a strong focus on SBOM (Software Bill of Materials) via OSS tooling at Interlynk. I contribute to and maintain several open-source projects like [sbommv](https://interlynk-io/sbommv), [sbomqs](https://interlynk-io/sbomqs), and [sbomasm](https://interlynk-io/sbomasm), and stay actively involved in the broader SBOM community.
 
-🌱 Exploring Software Supply Chain Security domain.
+I have been involved in the Software Supply Chain Security since 2024 and will continue to dig more into it. Along with managing Open Source projects of the company looking forward to be active to the OpenSSF community as a contributor/maintainer to some of the projects. At the end, Open Source is fueled by hobbist programmers, loves for community and oen who care about paying back to the community in one o another form. At the end "Open Source is not a free beer, it's a free puppy, which requires care in return".
 
-💬 Write technical blogs related to cloud-native technologies as a freelancer to pay my room rents and bills.
-
-😄 Pronouns: His/Him
-
-🔭 Live with my own rules, regulationa and values.
-
-😡 Hate Sad songs and Motivation videos.
-
-⚡ Fun fact: I convince my self with sudo.
+I previously worked as a Junior SRE & Go developer at Obmondo. And even prior to that, I started my tech journey as a entrypoint in form of contributor to CNCF projects like Kyverno, kyverno-policies and KubeArmor. So far, my path has been strongly oriented toward open source, which continues to be a central focus of my carrier so far.
 
 Reach me on:
 [![Twitter Badge](https://img.shields.io/badge/-@viveksahu_26-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/techie_das)](https://twitter.com/viveksahu_26)
